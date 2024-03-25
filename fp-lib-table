@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TVS_Diodes")(type "KiCad")(uri "${KIPRJMOD}/Project_Footprint_Libraries/TVS_Diodes.pretty")(options "")(descr ""))
+)
